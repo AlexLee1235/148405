@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"124576";
+	cout<<"124576g";
 }
